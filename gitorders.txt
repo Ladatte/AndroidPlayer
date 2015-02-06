@@ -1,0 +1,4 @@
+git commit -m 'Test'
+git remote add origin git@github.com:XXX/XXX.git 
+git push -u origin master
+git rm=git remove
